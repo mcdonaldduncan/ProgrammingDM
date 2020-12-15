@@ -1,0 +1,7 @@
+C:\Users\dfmcd\source\repos\AdventureGameDM\bin\Debug\AdventureGameDM.exe.config
+C:\Users\dfmcd\source\repos\AdventureGameDM\bin\Debug\AdventureGameDM.exe
+C:\Users\dfmcd\source\repos\AdventureGameDM\bin\Debug\AdventureGameDM.pdb
+C:\Users\dfmcd\source\repos\AdventureGameDM\obj\Debug\AdventureGameDM.csprojAssemblyReference.cache
+C:\Users\dfmcd\source\repos\AdventureGameDM\obj\Debug\AdventureGameDM.csproj.CoreCompileInputs.cache
+C:\Users\dfmcd\source\repos\AdventureGameDM\obj\Debug\AdventureGameDM.exe
+C:\Users\dfmcd\source\repos\AdventureGameDM\obj\Debug\AdventureGameDM.pdb
