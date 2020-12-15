@@ -1,0 +1,7 @@
+C:\Users\dfmcd\source\repos\ConsoleAppTriviaGame1\bin\Debug\ConsoleAppTriviaGame1.exe.config
+C:\Users\dfmcd\source\repos\ConsoleAppTriviaGame1\bin\Debug\ConsoleAppTriviaGame1.exe
+C:\Users\dfmcd\source\repos\ConsoleAppTriviaGame1\bin\Debug\ConsoleAppTriviaGame1.pdb
+C:\Users\dfmcd\source\repos\ConsoleAppTriviaGame1\obj\Debug\ConsoleAppTriviaGame1.csprojAssemblyReference.cache
+C:\Users\dfmcd\source\repos\ConsoleAppTriviaGame1\obj\Debug\ConsoleAppTriviaGame1.csproj.CoreCompileInputs.cache
+C:\Users\dfmcd\source\repos\ConsoleAppTriviaGame1\obj\Debug\ConsoleAppTriviaGame1.exe
+C:\Users\dfmcd\source\repos\ConsoleAppTriviaGame1\obj\Debug\ConsoleAppTriviaGame1.pdb
