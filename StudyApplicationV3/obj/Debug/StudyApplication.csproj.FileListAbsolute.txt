@@ -1,0 +1,14 @@
+C:\Users\dfmcd\source\repos\StudyApplication\bin\Debug\StudyApplication.exe.config
+C:\Users\dfmcd\source\repos\StudyApplication\bin\Debug\StudyApplication.exe
+C:\Users\dfmcd\source\repos\StudyApplication\bin\Debug\StudyApplication.pdb
+C:\Users\dfmcd\source\repos\StudyApplication\obj\Debug\StudyApplication.csprojAssemblyReference.cache
+C:\Users\dfmcd\source\repos\StudyApplication\obj\Debug\StudyApplication.csproj.CoreCompileInputs.cache
+C:\Users\dfmcd\source\repos\StudyApplication\obj\Debug\StudyApplication.exe
+C:\Users\dfmcd\source\repos\StudyApplication\obj\Debug\StudyApplication.pdb
+C:\Users\dfmcd\source\repos\StudyApplicationV2\bin\Debug\StudyApplication.exe.config
+C:\Users\dfmcd\source\repos\StudyApplicationV2\bin\Debug\StudyApplication.exe
+C:\Users\dfmcd\source\repos\StudyApplicationV2\bin\Debug\StudyApplication.pdb
+C:\Users\dfmcd\source\repos\StudyApplicationV2\obj\Debug\StudyApplication.csprojAssemblyReference.cache
+C:\Users\dfmcd\source\repos\StudyApplicationV2\obj\Debug\StudyApplication.csproj.CoreCompileInputs.cache
+C:\Users\dfmcd\source\repos\StudyApplicationV2\obj\Debug\StudyApplication.exe
+C:\Users\dfmcd\source\repos\StudyApplicationV2\obj\Debug\StudyApplication.pdb
